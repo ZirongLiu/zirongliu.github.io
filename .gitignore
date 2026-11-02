@@ -1,0 +1,14 @@
+# 私有素材：简历 PDF、照片原图、系统临时文件，一律不进版本库
+*.pdf
+files/*.pdf
+files/photo*.jpg
+files/*CV*.html
+files/*.html
+*.docx
+*.doc
+*~
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
